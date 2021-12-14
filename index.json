@@ -102,6 +102,7 @@
       "4.3"
     ],
     "category": [
+      "BNF",
       "FILTERS",
       "LEDS",
       "MODES",
@@ -114,6 +115,7 @@
       "VTX"
     ],
     "author": [
+      "BetaFPV",
       "Betaflight",
       "Patryk",
       "ctzsnooze",
@@ -184,6 +186,24 @@
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.3/bnf/BetaFPV_F4_1S_AIO_5A_ELRS_FC_CLI.txt",
+      "hash": "204cbf3fbda99785c5429fc872653cdf4e81a1d2adbb86ce2db2f768af4af0b3",
+      "options": [],
+      "title": "Default CLI for F4 1S AIO 5A FC (ELRS 2.4G)",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "BNF",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults"
+      ],
+      "author": "BetaFPV",
+      "description": [
+        "Domyślne BetaFPV dla BF4.3"
+      ]
+    },
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "b55352e30ac122256e4fca3a7e72e18d660e71f45d3e94bc4a4eca93ce7aff71",
