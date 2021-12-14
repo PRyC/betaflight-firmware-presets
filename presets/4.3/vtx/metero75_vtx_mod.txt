@@ -1,0 +1,10 @@
+#$ TITLE: Metero75 VTX Mod
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: VTX
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: rates, rc, elrs
+#$ AUTHOR: Patryk
+#$ DESCRIPTION: for Metero 75 ELRS
+
+set vtx_low_power_disarm = UNTIL_FIRST_ARM
+set vtx_power = 4

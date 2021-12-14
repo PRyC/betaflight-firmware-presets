@@ -1,0 +1,9 @@
+#$ TITLE: ExpressLRS rate index 500Hz
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: RATES
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: rates, rc, elrs
+#$ AUTHOR: Patryk
+#$ DESCRIPTION: expresslrs_rate_index = 0
+
+set expresslrs_rate_index = 0
